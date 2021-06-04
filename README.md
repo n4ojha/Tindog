@@ -4,4 +4,4 @@
 #### Technologies used
 HTML, CSS, Bootstrap
 
-Check it out here: https://n4ojha.github.io/Tindog.github.io/
+Check it out here: https://n4ojha.github.io/Tindog/
